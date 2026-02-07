@@ -1,5 +1,5 @@
 # EFM-STW
-Introduced by Dimitri and Eduardo for α = 1, EFM signatures are here generalized to the case α ≠ 1 through a nonlinear time reparametrization of the form 
+Introduced by Dimitri and Eduardo for α = 1, EFM signatures are here generalized to the case α  through a nonlinear time reparametrization of the form 
 𝑡
 ↦
 𝑡
