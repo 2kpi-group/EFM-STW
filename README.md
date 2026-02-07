@@ -1,2 +1,9 @@
 # EFM-STW
-We introduce a non-stationary extension of exponentially fading memory signatures, based on a nonlinear time reparameterization of the form t ↦ t^α. This construction enables adaptive encoding of temporal obsolescence in rough path signatures.
+Introduced by Dimitri and Eduardo for α = 1, EFM signatures are here generalized to the case α ≠ 1 through a nonlinear time reparametrization of the form 
+𝑡
+↦
+𝑡
+𝛼
+t↦t
+α
+, enabling the modeling of adaptive temporal obsolescence..
